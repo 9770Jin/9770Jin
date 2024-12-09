@@ -1,8 +1,12 @@
 # 👋 Hey there, fellow code explorers! 
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczRpMGxnMzluM2tlMmViZzE5OXl5eDY2OXNxOWd6MmQwbnNoMHZsNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif">
+<div align="right">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczRpMGxnMzluM2tlMmViZzE5OXl5eDY2OXNxOWd6MmQwbnNoMHZsNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif">
+</div>
 
 I'm a curious developer on an exciting journey through the vast universe of code! 🚀
+
+<br>
 
 ## 🌱 Currently Growing My Tech Garden
 
