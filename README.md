@@ -1,6 +1,6 @@
 # 👋 Hey there, fellow code explorers! 
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczRpMGxnMzluM2tlMmViZzE5OXl5eDY2OXNxOWd6MmQwbnNoMHZsNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding gif" align="right">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczRpMGxnMzluM2tlMmViZzE5OXl5eDY2OXNxOWd6MmQwbnNoMHZsNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="auto" alt="Coding gif" align="right">
 
 I'm a curious developer on an exciting journey through the vast universe of code! 🚀
 
