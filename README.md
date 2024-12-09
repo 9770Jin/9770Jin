@@ -2,8 +2,6 @@
 
 I'm a curious developer on an exciting journey through the vast universe of code! 🚀
 
-<br>
-
 ## 🌱 Currently Growing My Tech Garden
 
 - Cultivating my **MERN** stack skills 🌿
